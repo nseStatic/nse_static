@@ -46,6 +46,9 @@ Thumbs.db
 *.tar
 *.zip
 
+# Allowed file
+!2-Lesson-plans.zip
+
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
