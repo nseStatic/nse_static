@@ -45,14 +45,14 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
-
-# Allowed file
-!2-Lesson-plans.zip
+*.DS_Store
 
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
- 
+
+!2-Lesson-plans.zip
+
 # track these files, if they exist
 !.gitignore
 !.editorconfig
