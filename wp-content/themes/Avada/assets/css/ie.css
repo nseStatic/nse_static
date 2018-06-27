@@ -30,7 +30,7 @@
 
 .fusion-body .fusion-header-shadow:after,
 .fusion-body.side-header #side-header.header-shadow:after ,
-.fusion-body.side-header #side-header.header-shadow:before 
+.fusion-body.side-header #side-header.header-shadow:before
 { display: none }
 .fusion-button.button-pill, .fusion-button.button-pill:hover { filter: none; }
 
@@ -38,6 +38,11 @@
 
 .layout-boxed-mode .fusion-footer-parallax { left: auto; right: auto; }
 
+.fusion-footer, .fusion-footer-copyright-area, .fusion-row, .fusion-copyright-content, .fusion-copyright-notice {
+  position: fixed,
+  height: 100px
+  bottom: 0px,
+  }
 
 /* Flexbox fallback */
 .fusion-header-v4 .fusion-header > .fusion-row .fusion-logo {
