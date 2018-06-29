@@ -7566,7 +7566,7 @@ msgstr ""
 #: framework/metaboxes/options/options_slide.php:26
 msgid ""
 "For example the Video ID for "
-"http://www.youtube.com/<strong>LOfeCR7KqUs</strong> is "
+"https://www.youtube.com/<strong>LOfeCR7KqUs</strong> is "
 "<strong>LOfeCR7KqUs</strong>"
 msgstr ""
 
